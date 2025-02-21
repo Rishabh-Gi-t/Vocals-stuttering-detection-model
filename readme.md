@@ -3,6 +3,14 @@
 
 VOCALS is an innovative application that allows users to record their voice or upload audio files in WAV format, which are then sent to the backend for analysis. The primary goal is to classify the audio as either "stuttering" or "non-stuttering" using a custom-trained model.
 
+## Video Demonstration
+<div align="center">
+  <video width="640" height="360" autoplay muted loop>
+    <source src="https://github.com/user-attachments/assets/157db2b7-71b5-4bf2-a6bb-383a2bf3e8a6" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Project Overview
 
 - **Frontend:**  
@@ -22,6 +30,10 @@ VOCALS is an innovative application that allows users to record their voice or u
 
 ## Model Training Code
 For further details about the implementation, please refer to the code
+
+
+https://github.com/user-attachments/assets/1d63b6ad-db5c-4066-8101-682bd8454130
+
 
 [License](LICENSE)
 
